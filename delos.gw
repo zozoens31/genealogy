@@ -71,21 +71,6 @@ beg
 - f Marie {Marie_Elisabeth_Marguerite} 30/4/1899 27/12/1989 #dp Amélie-les-Bains,66
 end
 
-fam Coubris André +7/1/1884 #mp Canohès,66 Arquer Catherine
-cbp Canohès,66
-beg
-- f Rosine {Rose_Thérèse_Catherine} 14/1/1885 0
-- f Thérèse {Thérèse_Catherine_Marie} 13/1/1887 23/9/1950 #dp Ille-sur-Têt,66
-- f Joséphine {Marie_Julie_Joséphine} 27/7/1891 0
-- h André.1 {André_Pierre} 25/3/1893 >1938
-- h Pierre 13/6/1897 >1943
-end
-
-fam Siné Julien + Rambaut Thérèse
-beg
-- f Angèle 1900 ~1995
-end
-
 fam Pecqueur Ernest_Auguste_Désiré +26/3/1894 #mp Houplines,59 Loiselle Hélène_Zoé
 beg
 - h Gaston_Ernest_Joseph 9/8/1896 #bp Armentières,59 3/5/1986 #dp Saint-Omer-Capelle,62
@@ -147,26 +132,6 @@ end
 fam Manent Sébastien +5/4/1864 #mp Amélie-les-Bains,66 Piques Rose
 beg
 - f Rose {Rose_Marie_Magdeleine} 25/11/1869 #bp Amélie-les-Bains,66 >1925
-end
-
-fam Coubris Pierre.1 +21/6/1843 #mp Perpignan,66 Bise Thérèse
-beg
-- h André {André_Michel_Jacques} 6/8/1852 #bp Canohès,66 ~1924
-end
-
-fam Arquer Michel +5/7/1859 #mp Saint-Laurent-de-Cerdans,66 Soler Rose
-beg
-- f Catherine {Catherine_Marie_Rose} 16/2/1862 #bp Arles-sur-Tech,66 10/12/1931 #dp Canohès,66
-end
-
-fam Siné Pierre_Julien +25/9/1867 #mp Ponteilla,66 Bonnet Thérèse
-beg
-- h Julien {Julien_Etienne_Isidore} #occu cultivateur 4/4/1872 #bp Canohès,66 0
-end
-
-fam Rambaut Jacques +24/1/1877 #mp Canohès,66 Sibiude Thérèse
-beg
-- f Thérèse {Anne_Angélique_Thérèse} 16/4/1877 #bp Canohès,66 0
 end
 
 fam Pecqueur Charles_Louis +7/1/1858 #mp Vieille-Chapelle,62 Bracq Catherine_Joseph
@@ -252,41 +217,6 @@ end
 fam Piques Jacques +6/2/1837 #mp Montalba-d'Amélie,66 Barris Magdeleine
 beg
 - f Rose 14/11/1840 #bp Corsavy,66 >1891
-end
-
-fam Coubris Pierre.2 +26/9/5F #mp Ponteilla,66 Ribera Luce
-beg
-- h Pierre.1 {Pierre_François_Michel} 23/8/1816 #bp Canohès,66 4/2/1885 #dp Canohès,66
-end
-
-fam Bise Pierre +17/2/1819 #mp Perpignan,66 Pataillat Marguerite
-beg
-- f Thérèse {Thérèse_Rose} 21/8/1816 #bp Perpignan,66 5/2/1880 #dp Canohès,66
-end
-
-fam Arquer Joseph +11/2/1829 #mp Arles-sur-Tech,66 Molins Catherine
-beg
-- h Michel {Michel_Jean_Bonaventure} 16/1/1834 #bp Arles-sur-Tech,66 28/3/1915 #dp Arles-sur-Tech,66
-end
-
-fam Soler Joseph +23/1/1826 #mp Saint-Laurent-de-Cerdans,66 Lloanci Rose
-beg
-- f Rose 2/10/1837 #bp Saint-Laurent-de-Cerdans,66 22/2/1898 #dp Arles-sur-Tech,66
-end
-
-fam Siné Pierre +3/2/1830 #mp Canohès,66 Comes Catherine
-beg
-- h Pierre_Julien #occu brassier 13/8/1841 #bp Canohès,66 <1921
-end
-
-fam Bonnet Etienne +24/5/1837 #mp Ponteilla,66 Puig Marie_Angèle
-beg
-- f Thérèse {Thérèse_Françoise_Victoire} 16/4/1842 #bp Ponteilla,66 0
-end
-
-fam Sibiude Jean +17/11/1852 #mp Canohès,66 Badie Thérèse
-beg
-- f Thérèse {Thérèse_Catherine_Marie} 11/8/1858 #bp Canohès,66 0
 end
 
 fam Pecqueur Cézaire +27/5/1812 #mp Vieille-Chapelle,62 Trinez Marie
