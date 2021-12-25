@@ -9,4 +9,4 @@
 
 1897 n°23 6/12 Pierre Gaudérique fils d'André Coubris et Catherine Arquer [9NUM2E4409](http://archives.cd66.fr/mdr/index.php/docnumViewer/calculHierarchieDocNum/370838/322715:327978:327980:370838/900/1440) p88
 
-1872 4/4 Julien Etienne Isidore fils de Julien & Thérèse Bonnet [9NUM2E589](http://archives.cd66.fr/mdr/index.php/docnumViewer/calculHierarchieDocNum/324430/322715:327978:327980:324430/900/1440) p222
+1872 4/4 Julien Etienne Isidore Siné fils de Julien & Thérèse Bonnet [9NUM2E589](http://archives.cd66.fr/mdr/index.php/docnumViewer/calculHierarchieDocNum/324430/322715:327978:327980:324430/900/1440) p222
