@@ -50,3 +50,7 @@ au front du 4/8/14 au 1/4/19, sgt-major "Excellent ss-officier, a fait preuve de
 André Joseph Martin garçon d'hôtel, Corsavy 30/11/1848 fils de Martin dcd31/5/1865 à Corsavy + Marie Paillissier Corsavy
 Marie Catherine Thérèse fille de service, Palalda 6/11/1859 fille de Jacques (cordier) Palalda et Anne Oliveres dcd23/4/1869 à Palalda. père absent
 
+### Acte naissance Henriette Marcelle Catherine Rambeau
+fille d'Honoré cuisinier 38ans et de Rose Manen 35ans
+Apposition mariage (avec elle-même !?) à Pau 21/12/37
+Apposition Décès 26/11?/72, Perpignan
